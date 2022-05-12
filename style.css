@@ -377,7 +377,7 @@ footer h2 {
   nav ul li:hover a::after {
     background-color: #1b1b1b;
   }
-.food-section{
+.food-section>div{
 flex-direction:column;
 }
 }
